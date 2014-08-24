@@ -1,0 +1,113 @@
+body{
+background-image:url('../images/Dark-wood-black-background.jpg');
+font-weight:500;
+}
+
+.navbar > div{
+background:	white;
+}
+
+.navbar > div > div{
+top:0px;
+background:	white;
+}
+
+.navbar-inner{
+border-radius:0;
+}
+
+.navbar .nav{
+margin-top: 10px;
+font-size:18px!important;
+}
+.navbar .nav>li>a {
+color: #555;
+margin-right: 10px;
+}
+
+.my_name{
+display: block;
+float: left;
+padding: 10px 20px 10px;
+margin-left: -20px;
+font-size: 25px;
+font-weight: 200;
+color: #DB8433;
+text-decoration: none;
+}
+
+.mydetails_container{
+margin-bottom:30px;
+margin-top: 140px;
+}
+
+.image_div{
+height:100%;
+position:relative;
+text-align:center;
+}
+
+.image{
+height: 240px;
+width: 240px;
+border-radius: 165px;
+border: 1px solid rgb(155, 69, 69);
+}
+
+.content{
+color: white;
+margin-bottom:30px;
+margin-top: 10px;
+}
+
+.mydetail_content{
+font-size: 25px;
+line-height: 40px;
+}
+
+.quotes_message{
+color: white;
+font-size: 25px;
+line-height: 40px;
+text-align:center;
+}
+
+.mycontact_details{
+margin-bottom:30px;
+margin-top: 100px;
+}
+
+.contact_header{
+color: white;
+font-size: 25px;
+text-align:center;
+}
+
+.contact_details{
+text-align: center;
+}
+
+.contact_details>.link_icons {
+padding: 8px;
+}
+
+.cntt_details{
+margin-top: 70px;
+margin-left: 44px;
+}
+
+.contact_content{
+color: white;
+font-size: 25px;
+line-height: 40px;
+}
+
+footer{
+height: 58px;
+background: white;
+width: 100%;
+color: Black;
+text-align:center;
+position:fixed;
+bottom:0;
+}
